@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/net-kourier/cmd/kourier@sha256:74e4a5479718d2ba44e3b13903643ce0e6d82b812ea76b75025e511618145ad7
